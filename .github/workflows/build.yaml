@@ -26,4 +26,4 @@ jobs:
           context: .
           platforms: linux/amd64, linux/arm64
           push: true
-          tags: skvirp/php-8.2-fordev:latest
+          tags: skvirp/php-8.3-fordev:latest
